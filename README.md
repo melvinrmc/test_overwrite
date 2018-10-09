@@ -1,1 +1,1 @@
-Readme en escritorio v1.0.0
+Readme en escritorio v2.0.0
