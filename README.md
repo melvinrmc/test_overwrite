@@ -1,2 +1,1 @@
-# test_overwrite
-modificando archivo. guardando y pusheando.
+Readme en escritorio v1.0.0
